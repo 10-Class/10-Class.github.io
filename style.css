@@ -111,7 +111,7 @@ p {
     height: 750px;
     padding-top: 100px;
 
-    background: #31344e url("img/intro-bg.jpg") no-repeat center;
+    background: #31344e url("intro-bg.jpg") no-repeat center;
     background-size: cover;
 }
 
